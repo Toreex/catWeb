@@ -254,7 +254,9 @@ ul li {
 /*abajo iframe*/
 
 .iframeDiv {
-    margin-top: 80px;
+    margin: 15px;
+    background-color: #3d3d3d;
+   
 }
 
 .iframe {
@@ -264,5 +266,11 @@ ul li {
 .divVideo {
     border: 2px solid #F76E6E;
     border-radius: 7px;
+}
+
+.ancla {
+    text-align: center;
+    color: #F76161;
+     margin-top: 80px;
 }
 
