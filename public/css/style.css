@@ -250,3 +250,19 @@ ul li {
 .panel-default>.panel-heading {
     text-align: center;
 }
+
+/*abajo iframe*/
+
+.iframeDiv {
+    margin-top: 80px;
+}
+
+.iframe {
+    margin: 15px;
+}
+
+.divVideo {
+    border: 2px solid #F76E6E;
+    border-radius: 7px;
+}
+
